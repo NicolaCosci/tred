@@ -24,7 +24,7 @@ namespace introduzione_tred
                 if (i % 2 == 0)
                 {
                     Console.Write(i+ " ");
-                }
+                } 
             }
             
         }
